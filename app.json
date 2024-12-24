@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "ARITMA APP",
+    "slug": "ARITMA-KARATAS55PASHA-APP",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/ic_launcher.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alperenfatih.ARITMAKARATAS55PASHAAPP"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ic_launcher.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.alperenfatih.ARITMAKARATAS55PASHAAPP"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "194083e7-ea46-4db5-92a0-0f5f1aee5e28"
+      }
+    }
+  }
+}
